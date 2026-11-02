@@ -114,3 +114,8 @@ todo.md
 ideas.md
 ASSETS_NOTES.md
 .manus-logs/
+
+# graphify cache/state
+graphify-out/cache/
+graphify-out/.graphify_*
+graphify-out/manifest.json
